@@ -63,3 +63,10 @@ To run the simulation with fixed traffic light timings:
 
 ```bash
 python main.py
+```
+### 1. Dynamic Timer-Based Simulation
+
+To run the simulation with dynamic traffic light timings:
+
+```bash
+python simu2.py
